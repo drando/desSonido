@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DesSonido</string>
+    <string name="grabar">Grabar</string>
+    <string name="pararGrabar">Parar</string>
+    <string name="cifrar_descifrar">Clave (copiala para usarla en el futuro)</string>
+    <string name="fichero_3gp">Fichero .mp4 de sonido a tratar</string>
+    <string name="Cifrar">Cifrar</string>
+    <string name="Descifrar">Descifrar</string>
+    <string name="generar">Generar Clave</string>
+
+</resources>
